@@ -12,3 +12,10 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 ### Me encontre:
 
 **Linkedin:** https://www.linkedin.com/in/thosijulio/ <p> **Gmail:** thosijulio@gmail.com <p> **Outlook:** thosijulio@outlook.com
+
+<a href="https://github.com/thosijulio">
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=thosijulio&show_icons=true&theme=dracula" alt="thosijulio" />
+</a>
+<a href="https://github.com/thosijulio">
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosijulio&layout=compact&theme=dracula" alt="thosijulio" />
+</a>
