@@ -6,7 +6,8 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 - 👨🏻‍💻 Trabalhando à dois anos e meio na àrea de Suporte de TI.
 - :books: Estudando Desenvolvimento Web, com foco em JS no momento. Estou fazendo, paralelamente à Trybe, um curso na coursera ministrado pela google, com foco em suporte de TI.
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
-- 💬 Caso precise de ajuda, não hesite em me procurar! “Compartilhar conhecimento é o caminho mais próximo da sabedoria”
+- 💬 Caso precise de ajuda, não hesite em me procurar! 
+> Compartilhar conhecimento é o caminho mais próximo da sabedoria
 - 📫 Para entrar em contato, envie um email para `thosijulio@outlook.com`
 
 ### Me encontre:
