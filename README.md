@@ -1,5 +1,5 @@
-<h2 align=center>Hello there 👋:cinema:</h2>
-
+<h1 align="center">Hello there 👋:cinema: <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="150" align=center>
+</h1>
 
 Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Accademy](http://hotsite.escolafourc.com.br/) 🚀.
 
