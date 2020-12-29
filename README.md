@@ -1,4 +1,4 @@
-### Hello there 👋:cinema:
+<h2 align=center>Hello there 👋:cinema:</h2>
 
 
 Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Accademy](http://hotsite.escolafourc.com.br/) 🚀.
@@ -10,9 +10,16 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
 > Compartilhar conhecimento é o caminho mais próximo da sabedoria
 
-### Me encontre:
+<h3 align=center>Tecnologias e Ferramentas:</h3>
 
-**Linkedin:** https://www.linkedin.com/in/thosijulio/ <p> **Gmail:** thosijulio@gmail.com <p> **Outlook:** thosijulio@outlook.com
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30" height="30"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+</p>
 
 <a href="https://github.com/thosijulio">
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=thosijulio&show_icons=true&theme=dracula" alt="thosijulio" />
@@ -20,3 +27,11 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 <a href="https://github.com/thosijulio">
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosijulio&layout=compact&theme=dracula" alt="thosijulio" />
 </a>
+
+<h3 align=center>Me encontre:</h3>
+
+<p align=center>
+<a href="https://www.linkedin.com/in/thosijulio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thosijulio" height="20" width="20" /></a>
+<a href="https://www.github.com/thosijulio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="thosijulio" height="20" width="20" /></a>
+<a href="https://www.instagram.com/thosijulio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thosijulio" height="20" width="20" /></a>
+ </p>
