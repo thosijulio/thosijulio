@@ -22,7 +22,7 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 </p>
 
 <a href="https://github.com/thosijulio">
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=thosijulio&show_icons=true&theme=dracula" alt="thosijulio" />
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=thosijulio&show_icons=true&theme=dracula" alt="thosijulio" target="_blank"/>
 </a>
 <a href="https://github.com/thosijulio">
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosijulio&layout=compact&theme=dracula" alt="thosijulio" />
@@ -31,7 +31,7 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 <h3 align=center>Me encontre:</h3>
 
 <p align=center>
-<a href="https://www.linkedin.com/in/thosijulio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thosijulio" height="20" width="20" /></a>
-<a href="https://www.github.com/thosijulio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="thosijulio" height="20" width="20" /></a>
-<a href="https://www.instagram.com/thosijulio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thosijulio" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/thosijulio/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thosijulio" height="20" width="20" /></a>
+<a href="https://www.github.com/thosijulio/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="thosijulio" height="20" width="20" /></a>
+<a href="https://www.instagram.com/thosijulio" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thosijulio" height="20" width="20" /></a>
  </p>
