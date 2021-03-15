@@ -13,12 +13,12 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 <h3 align=center>Tecnologias e Ferramentas:</h3>
 
 <p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5"  width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"  width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows8" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5"  width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"  width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </p>
 
 <a href="https://github.com/thosijulio">
