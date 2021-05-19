@@ -29,7 +29,7 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosijulio&layout=compact&theme=dracula" alt="thosijulio" />
 </a>
 
-<h3 align=center>Me encontre:</h3>
+<h3 align=center>Find me!</h3>
 
 <p align=center>
 <a href="https://www.linkedin.com/in/thosijulio/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thosijulio" height="20" width="20" /></a>
