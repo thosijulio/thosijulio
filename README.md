@@ -4,7 +4,7 @@
 Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Accademy](http://hotsite.escolafourc.com.br/) 🚀.
 
 - 💻 Trabalhando à dois anos e meio na àrea de Suporte de TI.
-- :books: Estudando Desenvolvimento Web, com foco em JS no momento. Estou fazendo, paralelamente à Trybe, um curso na coursera ministrado pela google, com foco em suporte de TI.
+- :books: Estudando Desenvolvimento Web, com foco em Front-End (React/Redux) no momento.
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
 - 📫 Para entrar em contato, envie um email para `thosijulio@outlook.com`
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
