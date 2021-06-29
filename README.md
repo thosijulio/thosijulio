@@ -1,9 +1,8 @@
 
-
-https://user-images.githubusercontent.com/74427996/123806517-66d00d80-d8c5-11eb-97a3-7f554c784928.mp4
-
 <h1 align="center">Hello there 👋:cinema: <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="150" align=center>
 </h1>
+
+https://user-images.githubusercontent.com/74427996/123807291-1c02c580-d8c6-11eb-91e7-8ba1b4806ee1.mp4
 
 Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Accademy](http://hotsite.escolafourc.com.br/) 🚀.
 
