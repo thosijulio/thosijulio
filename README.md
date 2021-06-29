@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there 👋:cinema: <img src="https://s6.gifyu.com/images/readmeIntro.gif" width="150" align=center>
+<h1 align="center">Hello there 👋:cinema: <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="150" align=center>
 </h1>
 
 https://user-images.githubusercontent.com/74427996/123807291-1c02c580-d8c6-11eb-91e7-8ba1b4806ee1.mp4
