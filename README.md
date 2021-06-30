@@ -2,9 +2,9 @@
 <h1 align="center">Hello there 👋:cinema: <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="150" align=center>
 </h1>
 
-https://user-images.githubusercontent.com/74427996/123807291-1c02c580-d8c6-11eb-91e7-8ba1b4806ee1.mp4
+https://user-images.githubusercontent.com/74427996/123963102-81b78600-d988-11eb-8bc3-721aa158e713.mp4
 
-Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Academy](http://hotsite.escolafourc.com.br/) 🚀.
+Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Accademy](http://hotsite.escolafourc.com.br/) 🚀.
 
 - 💻 Trabalhando à dois anos e meio na àrea de Suporte de TI.
 - :books: Estudando Desenvolvimento Web, com foco em Front-End (React/Redux) no momento.
