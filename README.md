@@ -7,7 +7,7 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 - 💻 Trabalhando à dois anos e meio na àrea de Suporte de TI.
 - :books: Estudando Desenvolvimento Web, com foco em Back-End (MySQL) no momento.
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
-- 📫 Para entrar em contato, envie um email para `thosijulio@outlook.com`
+- 📫 Para entrar em contato, envie um email para `thosijulio@outlook.com.br`
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
 > Compartilhar conhecimento é o caminho mais próximo da sabedoria
 
