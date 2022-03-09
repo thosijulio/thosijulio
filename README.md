@@ -2,12 +2,12 @@
 <p align="center"><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="150" align=center></p>
 <h1 align="center">Hello there 👋:cinema:</h1>
 
-Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** e atuo como Suporte TI na [FourC Bilingual Academy](http://hotsite.escolafourc.com.br/) 🚀.
+Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
 
 - 💻 Trabalhando à dois anos e meio na àrea de Suporte de TI.
 - :books: Estudando Desenvolvimento Web, com foco em Back-End (MySQL) no momento.
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
-- 📫 Para entrar em contato, envie um email para `thosijulio@outlook.com.br`
+- 📫 Para entrar em contato, envie um email para `thosijulio@gmail.com`
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
 > Compartilhar conhecimento é o caminho mais próximo da sabedoria
 
