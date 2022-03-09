@@ -13,6 +13,12 @@ Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudand
 
 <h3 align=center>Tecnologias e Ferramentas:</h3>
 <p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="Heroku" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="My SQL" width="35" height="35"/>
