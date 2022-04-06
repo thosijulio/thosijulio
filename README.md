@@ -4,8 +4,8 @@
 
 Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Atualmente estou estudando na [Trybe](https://betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
 
-- 💻 Trabalhando à dois anos e meio na àrea de Suporte de TI.
-- :books: Estudando Desenvolvimento Web, com foco em Back-End (MySQL) no momento.
+- 💻 Trabalhando à três anos na àrea de Suporte de TI.
+- :books: Estudando Desenvolvimento Web, com foco em ciência da computação (Python) no momento.
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
 - 📫 Para entrar em contato, envie um email para `thosijulio@gmail.com`
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
