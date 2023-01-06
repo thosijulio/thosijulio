@@ -5,7 +5,7 @@
 Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Me formei na Trybe em 2022 como desenvolvedor full-stack web e atualmente estou trabalhando como desenvolvedor na NT Treinamentos e Marketing Digital 🚀.
 
 - 💻 Trabalhei por três anos na àrea de Suporte de TI.
-- :books: Estudando DevOps no momento, com foco em AWS.
+- :books: Estudando C## no momento, com foco em criação de API's e futuramente desenvolvimento de jogos! 🎮
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
 - 📫 Para entrar em contato, envie um email para `thosijulio@gmail.com`
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
