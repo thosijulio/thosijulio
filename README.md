@@ -1,11 +1,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="150" align=center></p>
-<h1 align="center">Hello there 👋:cinema:</h1>
+<h1 align="center">Hello there 👋🎥</h1>
 
-Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Me formei na Trybe em 2022 como desenvolvedor full-stack web e atualmente estou trabalhando como desenvolvedor na NT Treinamentos e Marketing Digital 🚀.
+Olá, me chamo Julio Henrique Thosi, moro em Bauru-SP. Me formei na Trybe em 2022 como desenvolvedor full-stack web e atualmente estou trabalhando como Head de Desenvolvimento na empresa NT Capital, com foco no front de casas de apostas ([Hanzbet](https://hanzbet.com)) e seus subprodutos. 🎰🃏🎲
 
 - 💻 Trabalhei por três anos na àrea de Suporte de TI.
-- :books: Estudando C# no momento, com foco em criação de API's e futuramente desenvolvimento de jogos! 🎮
+- :books: Cursando Engenharia da Computação (UNIVESP). Além disso, estou estudando desenvolvimento de software p/ Android (Kotlin) no momento! 🎮
 - :guitar: Além de passar 12h em frente a um monitor, gosto muito de música, e sempre que possível, toco e canto com amigos e familiares.
 - 📫 Para entrar em contato, envie um email para `thosijulio@gmail.com`
 - 💬 Caso precise de ajuda, não hesite em me procurar! 
